@@ -1,5 +1,5 @@
 # todolist
-
+simple ToDo List with Vuejs and Bootstrap
 ## Project setup
 ```
 npm install
